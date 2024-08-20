@@ -8,7 +8,7 @@
 
   - PA00. Servicios que usarás, cuentas que necesitarás o que serán útiles.
   
-  - PA01. [Matriz de distancias](https://github.com/biogeografia-202402/biogeografia-202402-pa01-distancias)
+  - [PA01. Matriz de distancias](https://github.com/biogeografia-202402/biogeografia-202402-pa01-distancias)
 
 - Prácticas de desarrollo
 
