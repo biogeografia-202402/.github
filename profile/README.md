@@ -14,5 +14,5 @@
 
 <!--  - PD01.  -->
 
-- [Proyecto](https://github.com/geomorfologia-202402/proyecto)
+- Proyecto
 
