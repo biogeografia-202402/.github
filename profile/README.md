@@ -19,6 +19,8 @@
     - Cuentas recomendadas: ChatGPT, Google Earth Engine, GBIF, 
   
   - [PA01. Matriz de distancias](https://github.com/biogeografia-master/matriz-de-distancias)
+  
+  - [PA02. Inferencia estadística a partir de dos muestras independientes usando datos biométricos](https://github.com/biogeografia-master/dos-muestras-independientes-biometria)
 
 - Prácticas de desarrollo
 
