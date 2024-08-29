@@ -24,7 +24,7 @@
 
 - Prácticas de desarrollo
 
-<!--  - PD01.  -->
-
-- Proyecto
+  - [PD01. Hola Mundo](https://classroom.github.com/a/hiEyUvci)
+  
+- [Proyecto](https://github.com/biogeografia-202402/proyecto)
 
