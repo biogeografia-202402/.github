@@ -21,6 +21,8 @@
   - [PA01. Matriz de distancias](https://github.com/biogeografia-master/matriz-de-distancias). Plazo de entrega: 20 de agosto, 2024, 7:59 pm.
   
   - [PA02. Inferencia estadística a partir de dos muestras independientes usando datos biométricos](https://github.com/biogeografia-master/dos-muestras-independientes-biometria). Plazo de entrega: 27 de agosto, 2024, 7:59 pm.
+  
+  - [PA03. Agrupar provincias según su riqueza relativa de especies por géneros de Bromeliaceae](https://github.com/biogeografia-master/agrupamiento-por-riqueza). Plazo de entrega: 3 de agosto, 2024, 7:59 pm.
 
 - Prácticas de desarrollo
 
