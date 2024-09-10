@@ -22,7 +22,9 @@
   
   - [PA02. Inferencia estadística a partir de dos muestras independientes usando datos biométricos](https://github.com/biogeografia-master/dos-muestras-independientes-biometria). Plazo de entrega: 27 de agosto, 2024, 7:59 pm.
   
-  - [PA03. Agrupar provincias según su riqueza relativa de especies por géneros de Bromeliaceae](https://github.com/biogeografia-master/agrupamiento-por-riqueza). Plazo de entrega: 3 de agosto, 2024, 7:59 pm.
+  - [PA03. Agrupar provincias según su riqueza relativa de especies por géneros de Bromeliaceae](https://github.com/biogeografia-master/agrupamiento-por-riqueza). Plazo de entrega: 3 de septiembre, 2024, 7:59 pm.
+  
+  - [PA04: Análisis Exploratorio de Datos (AED) y Paradoja de Orlócy](https://github.com/biogeografia-master/aed-transformaciones-orlocy). Plazo de entrega: 11 de septiembre, 2024, 11:59 pm.
 
 - Prácticas de desarrollo
 
