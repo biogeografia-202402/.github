@@ -29,7 +29,8 @@
   - [PA05: Medio físico, variables ambientales, correlación y regresión](https://github.com/biogeografia-master/medio-fisico-variables-ambientales)
 
   - [PA06: Distribución de especies, patrones de distribución por simple inspección](https://github.com/biogeografia-master/patrones-distribucion-simple-inspeccion)
-
+  
+  - [PA07: istribución de especies en la bibliografía](https://github.com/biogeografia-master/distribucion-de-especies-en-bibliografia)
 
 - Prácticas de desarrollo
 
