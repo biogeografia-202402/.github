@@ -35,7 +35,9 @@
 
   - [PD01. Hola Mundo](https://classroom.github.com/a/_gvZ1hV8). Plazo de entrega: 6 de septiembre, 2024, 11:59 pm. Al hacer clic en el vínculo, si tienes tu cuenta de GitHub iniciada y perteneces a la organización `biogeografia-202402` debería aparecerte un mensaje de GitHub Classroom solicitando permisos o preguntando si aceptas la asignación. Si no ves esto, entonces probablemente no perteneces a la organización o no iniciaste en tu cuenta de GitHub. Si no perteneces a la organización, envíame un mensaje para invitarte. Más detalles en el [Vídeo tutorial "PD01. Hola Mundo"](https://drive.google.com/file/d/1om49HJ7ndANraUPuT5a5gYEZRlELMoXB/view?usp=drive_link).
   
-  - [PD02. Técnicas de ecología numérica, reproducibilidad](https://classroom.github.com/a/nDN0G70c) (acepta la práctica haciendo clic en el vínculo). Plazo de entrega: 8 de octubre, 2024, 11:59 pm.
+  - [PD02. Técnicas de ecología numérica, reproducibilidad](https://classroom.github.com/a/nDN0G70c) (acepta la práctica haciendo clic en el vínculo). Plazo de entrega: 15 de octubre, 2024, 11:59 pm.
+  
+  - [PD03. Introducción a Python](https://classroom.github.com/a/fQT1f7zt) (acepta la práctica haciendo clic en el vínculo). Plazo de entrega: 22 de octubre, 2024, 11:59 pm.
   
 - [Proyecto](https://github.com/biogeografia-202402/proyecto)
 
