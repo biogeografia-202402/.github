@@ -32,6 +32,8 @@
   
   - [PA07: Distribución de especies en la bibliografía](https://github.com/biogeografia-master/distribucion-de-especies-en-bibliografia)
 
+  - [PA08: Distribución de comunidades en la bibliografía](https://github.com/biogeografia-master/distribucion-de-comunidades-en-bibliografia)
+
 - Prácticas de desarrollo
 
   - [PD01. Hola Mundo](https://classroom.github.com/a/_gvZ1hV8). Plazo de entrega: 6 de septiembre, 2024, 11:59 pm. Al hacer clic en el vínculo, si tienes tu cuenta de GitHub iniciada y perteneces a la organización `biogeografia-202402` debería aparecerte un mensaje de GitHub Classroom solicitando permisos o preguntando si aceptas la asignación. Si no ves esto, entonces probablemente no perteneces a la organización o no iniciaste en tu cuenta de GitHub. Si no perteneces a la organización, envíame un mensaje para invitarte. Más detalles en el [Vídeo tutorial "PD01. Hola Mundo"](https://drive.google.com/file/d/1om49HJ7ndANraUPuT5a5gYEZRlELMoXB/view?usp=drive_link).
