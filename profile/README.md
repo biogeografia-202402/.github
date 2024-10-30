@@ -42,5 +42,7 @@
   
   - [PD03. Introducción a Python](https://classroom.github.com/a/fQT1f7zt) (acepta la práctica haciendo clic en el vínculo). Plazo de entrega: 22 de octubre, 2024, 11:59 pm.
   
+  - [PD04. Modelos de distribución de especies (SDM) por medio de aprendizaje automático (*machine learning*)](https://classroom.github.com/a/XcbRJ9xA) (acepta la práctica haciendo clic en el enlace). Plazo de entrega: 12 de noviembre, 2024, 11:59 pm. [Vídeo tutorial]().
+  
 - [Proyecto](https://github.com/biogeografia-202402/proyecto)
 
