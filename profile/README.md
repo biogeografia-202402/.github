@@ -26,13 +26,15 @@
   
   - [PA04: Análisis Exploratorio de Datos (AED) y Paradoja de Orlócy](https://github.com/biogeografia-master/aed-transformaciones-orlocy). Plazo de entrega: 11 de septiembre, 2024, 11:59 pm.
   
-  - [PA05: Medio físico, variables ambientales, correlación y regresión](https://github.com/biogeografia-master/medio-fisico-variables-ambientales)
+  - [PA05: Medio físico, variables ambientales, correlación y regresión](https://github.com/biogeografia-master/medio-fisico-variables-ambientales). Plazo de entrega: 25 de septiembre de 2024, 11:59 pm.
 
-  - [PA06: Distribución de especies, patrones de distribución por simple inspección](https://github.com/biogeografia-master/patrones-distribucion-simple-inspeccion)
+  - [PA06: Distribución de especies, patrones de distribución por simple inspección](https://github.com/biogeografia-master/patrones-distribucion-simple-inspeccion). Plazo de entrega: 8 de octubre de 2024, 7:59 pm.
   
-  - [PA07: Distribución de especies en la bibliografía](https://github.com/biogeografia-master/distribucion-de-especies-en-bibliografia)
+  - [PA07: Distribución de especies en la bibliografía](https://github.com/biogeografia-master/distribucion-de-especies-en-bibliografia). Plazo de entrega: 15 de octubre de 2024, 7:59 pm.
 
-  - [PA08: Distribución de comunidades en la bibliografía](https://github.com/biogeografia-master/distribucion-de-comunidades-en-bibliografia)
+  - [PA08: Distribución de comunidades en la bibliografía](https://github.com/biogeografia-master/distribucion-de-comunidades-en-bibliografia). Plazo de entrega: 29 de octubre de 2024, 7:59 pm.
+  
+  - [PA09: Teoría de la biogeografía insular en la bibliografía, herramientas precursoras de la TBI](https://github.com/biogeografia-master/biogeografia-insular-en-bibliografia). Plazo de entrega: 18 de noviembre de 2024, 23:59 pm.
 
 - Prácticas de desarrollo
 
@@ -43,6 +45,8 @@
   - [PD03. Introducción a Python](https://classroom.github.com/a/fQT1f7zt) (acepta la práctica haciendo clic en el vínculo). Plazo de entrega: 22 de octubre, 2024, 11:59 pm.
   
   - [PD04. Modelos de distribución de especies (SDM) por medio de aprendizaje automático (*machine learning*)](https://classroom.github.com/a/XcbRJ9xA) (acepta la práctica haciendo clic en el enlace). Plazo de entrega: 12 de noviembre, 2024, 11:59 pm. [Vídeo tutorial](https://drive.google.com/file/d/1W6dckDAzI0Zm0tezKOnTx5oswpA8llQY/view?usp=drive_link).
+  
+<!--  - [PD05. ]() (acepta la práctica haciendo clic en el enlace). Plazo de entrega: 26 de noviembre, 2024, 11:59 pm. [Vídeo tutorial](https://drive.google.com/file/d/1W6dckDAzI0Zm0tezKOnTx5oswpA8llQY/view?usp=drive_link). -->
   
 - [Proyecto](https://github.com/biogeografia-202402/proyecto)
 
