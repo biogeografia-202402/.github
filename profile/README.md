@@ -50,3 +50,4 @@
   
 - [Proyecto](https://github.com/biogeografia-202402/proyecto)
 
+- [Salida de campo (2024-12-01)](https://biogeografia-202402.github.io/salida-de-campo/README.html)
